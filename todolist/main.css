@@ -47,6 +47,7 @@ body {
     border-radius: 20px;
     box-sizing: border-box; */
 
+    display:inline;
     position: absolute;
     width: 529px;
     height: 547px;
